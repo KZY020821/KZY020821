@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a Software Engineer based in Malaysia<br>Mastered Python, React, and Next.js.  <br>Focused on mastering AWS and machine learning.<br><br>🚀 What I’m Working On<br>Developing a Python-based Resume Parser using ML to streamline recruitment data. <br>Checkout the repository https://github.com/KZY020821/clair
+👋 Hi, I'm a Software Engineer based in Malaysia<br>Mastered Python, React, and Next.js.  <br>Focused on mastering AWS and machine learning.
 
 
 ## 🌐 Socials:
